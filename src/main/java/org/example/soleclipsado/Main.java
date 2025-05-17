@@ -1,6 +1,6 @@
 /**
  * MINIPROYECTO 1 : EL SOL ECLIPSADO
- * @autor 2343025-2724 Olman Alexander Silva Zuñiga gr 81
+ * @autor Alexander Silva
  * @version 1.0
  */
 package org.example.soleclipsado;
